@@ -1,3 +1,5 @@
+# Welcome to My GitHub!
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +16,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+My name is @banarasi-ai alias of Badrinath, Data Architect | Currently focusing on helping Businesses implement Generative Artificial Intelligence (GenAI) solutions. I hold a keen interest in LLMs and GenerativeAI.
+
+## What I'm Doing 🛠️
+
+
+
+## What You'll Find Here 📚
+
+
+
+## Find all work here 📚
+
+- **Website:** 
+
+## Get in Touch 💌
+
+
+- **LinkedIn:** [Your LinkedIn]()
+- **Twitter:** [@theailifestyle]()
+- **Email:** 
+- **Linktree** 
+
+
