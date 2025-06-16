@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 
 My name is @banarasi-ai alias of Badrinath, Data Architect | Currently focusing on helping Businesses implement Generative Artificial Intelligence (GenAI) solutions. I hold a keen interest in LLMs and GenerativeAI.
 
+
 ## What I'm Doing 🛠️
+I am exploring platforms and frameworks : Databricks, NVIDIA, Langgraph, LlamaIndex, Haystack, AI Agents, MCP Model Context Protocol, A2A Agent2Agent Framework in order to provide solutions with Business Impact for driving profitability and customer experience within the guidelines of Responsible AI usage. 
 
-
-
+<!--
 ## What You'll Find Here 📚
 
-
+-->
 
 ## Find all work here 📚
 
@@ -37,7 +38,7 @@ My name is @banarasi-ai alias of Badrinath, Data Architect | Currently focusing 
 
 
 - **LinkedIn:** [Your LinkedIn]()
-- **Twitter:** [@theailifestyle]()
+- **Twitter:** [@()
 - **Email:** 
 - **Linktree** 
 
